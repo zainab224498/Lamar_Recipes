@@ -91,7 +91,6 @@ export default function Nav() {
                     About Us
                 </Link>
             </Typography>
-    {/** 
             {!admin
                 ?
                 <Typography
@@ -108,7 +107,6 @@ export default function Nav() {
                 :
                 ""
             }
-            */}
         </ul>
     );
 
